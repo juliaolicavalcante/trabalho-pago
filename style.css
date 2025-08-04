@@ -31,6 +31,7 @@ header p {
 .receitas {
   display: flex;
   gap: 20px;
+  justify-content: space-around;
 }
 
 .carta {
@@ -44,7 +45,7 @@ header p {
 }
 
 .carta img {
-  max-width: 150px;
+  max-width: 200px;
   border-radius: 8px;
 }
 
