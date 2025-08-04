@@ -22,13 +22,13 @@ header p {
   margin-top: 10px;
 }
 
-.boas-vindas{
+.boas-vindas {
   max-width: 800px;
   margin: 30px auto;
   padding: 0 20px;
 }
 
-.receitas{
+.receitas {
   display: flex;
   gap: 20px;
 }
@@ -44,7 +44,8 @@ header p {
 }
 
 .carta img {
-width: 150px;  border-radius: 8px;
+  max-width: 150px;
+  border-radius: 8px;
 }
 
 .botao {
