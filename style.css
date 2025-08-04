@@ -35,7 +35,7 @@ header p {
   justify-content: center;
 }
 
-.card {
+.carta{
   background: white;
   border: 1px solid #ddd;
   border-radius: 10px;
@@ -45,7 +45,7 @@ header p {
   box-shadow: 2px 2px 6px #ccc;
 }
 
-.card img {
+.carta img {
   max-width: 100%;
   border-radius: 8px;
 }
