@@ -82,3 +82,20 @@ header p {
 .catalogo div{
   margin-bottom: 40px;
 }
+
+.conteudo {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px #ccc;
+}
+
+.conteudo h2 {
+  color: #a0522d;
+}
+
+.conteudo ul, ol {
+  margin-left: 20px;
+}
