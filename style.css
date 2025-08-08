@@ -74,7 +74,11 @@ header p {
   font-size: 20px;
 }
 
-.catalogo{
+.catalogo h2{
   margin-left: 20px;
   margin-bottom: 20px;
+}
+
+.catalogo div{
+  margin-bottom: 40px;
 }
